@@ -1,0 +1,6 @@
+    {G}By: K3RNEL{end}
+  _  __    _     _____     _     _  _     _
+ | |/ /   /_\   |_   _|   /_\   | \| |   /_\    |     {G}Generation Recipes:{end}
+ | ' <   / _ \    | |    / _ \  | .` |  / _ \   {G}Special chars : {end}{chars}, {G}Leet permutations: {end}{leet}
+ |_|\_\ /_/ \_\   |_|   /_/ \_\ |_|\_| /_/ \_\  {G}Verbose mode : {end}{verbose}, {G}Export file : {end}{export}
+   {G}v{ver}   | {G}Password stats: Min={min} Max={max} Complication level set for: {level}{end}
