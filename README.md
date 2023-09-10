@@ -1,4 +1,6 @@
 # KatanaFramework (BETA-VERSION)
+![Python](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python)
+![TestOS](https://img.shields.io/badge/TestedOS-KaliLinux-red?style=for-the-badge&logo=linux)
 <img alt="katana-logo" align="left" width="300" height="300" src="https://github.com/K3rnel-Dev/KatanaFramework/blob/main/22.jpg">
 <h1>KatanaFramework</h1>
 
@@ -45,7 +47,11 @@ The results can be exported as a PDF Report.
   <img alt="blackbird-pdf-cover" width="300" src="https://github.com/K3rnel-Dev/KatanaFramework/blob/main/screens/demo2.png">
   <img alt="blackbird-pdf-cover" width="300" src="https://github.com/K3rnel-Dev/KatanaFramework/blob/main/screens/demo4.png">
     <img alt="blackbird-pdf-cover" width="300" src="https://github.com/K3rnel-Dev/KatanaFramework/blob/main/screens/demo5.png">
-</p>
+</p> 
+
+https://github.com/K3rnel-Dev/KatanaFramework/assets/132711888/5ecf6d4f-dc0e-470b-8d2f-ec6b7679cd9b
+
+
 
 ## 0xTHX
 Thanks for watching:D
