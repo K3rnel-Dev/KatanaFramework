@@ -1,5 +1,5 @@
 # KatanaFramework (BETA-VERSION)
-<img alt="katana-logo" align="left" width="300" height="300" src="https://raw.githubusercontent.com/p1ngul1n0/badges/main/badges/22.png">
+<img alt="katana-logo" align="left" width="300" height="300" src="https://github.com/K3rnel-Dev/KatanaFramework/blob/main/22.jpg">
 <h1>KatanaFramework</h1>
 
 ### Katana-Framework About
@@ -7,7 +7,6 @@
 
 </br>
 
-<img alt="cli" align="center" src="https://github.com/K3rnel-Dev/KatanaFramework/blob/main/22.jpg">
 <img alt="blackbird-web" align="center" src="https://github.com/K3rnel-Dev/KatanaFramework/blob/main/katana_printscreen.jpg">
 
 ## Disclaimer
