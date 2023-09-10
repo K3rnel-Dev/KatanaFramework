@@ -44,8 +44,7 @@ The results can be exported as a PDF Report.
   <img alt="blackbird-pdf-cover" width="300" src="https://github.com/K3rnel-Dev/KatanaFramework/blob/main/screens/demo1.png">
   <img alt="blackbird-pdf-cover" width="300" src="https://github.com/K3rnel-Dev/KatanaFramework/blob/main/screens/demo2.png">
   <img alt="blackbird-pdf-cover" width="300" src="https://github.com/K3rnel-Dev/KatanaFramework/blob/main/screens/demo3.png">
-    <img alt="blackbird-pdf-cover" width="300" src="https://github.com/K3rnel-Dev/KatanaFramework/blob/main/screens/demo4.png">
-      <img alt="blackbird-pdf-cover" width="300" src="https://github.com/K3rnel-Dev/KatanaFramework/blob/main/screens/demo5.png">
+    <img alt="blackbird-pdf-cover" width="300" src="https://github.com/K3rnel-Dev/KatanaFramework/blob/main/screens/demo5.png">
 </p>
 
 ## 0xTHX
