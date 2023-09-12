@@ -60,6 +60,7 @@ https://github.com/K3rnel-Dev/KatanaFramework/assets/132711888/5ecf6d4f-dc0e-470
   <img alt="blackbird-pdf-cover" width="300" src="https://github.com/K3rnel-Dev/KatanaFramework/blob/main/screens/update.png">
   <img alt="blackbird-pdf-cover" width="300" src="https://github.com/K3rnel-Dev/KatanaFramework/blob/main/screens/update2.png">
   <img alt="blackbird-pdf-cover" width="300" src="https://github.com/K3rnel-Dev/KatanaFramework/blob/main/screens/update3.png">
+  <img alt="blackbird-pdf-cover" width="300" src="https://github.com/K3rnel-Dev/KatanaFramework/blob/main/screens/update4.png">
 </p> 
 
 
