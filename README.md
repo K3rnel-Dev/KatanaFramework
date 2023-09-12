@@ -38,7 +38,7 @@ sudo ./install.sh
 
 #### Execute
 ```python
-python katana.py
+sudo python katana.py
 ```
 ## Screens
 The results can be exported as a PDF Report.
@@ -55,6 +55,10 @@ https://github.com/K3rnel-Dev/KatanaFramework/assets/132711888/5ecf6d4f-dc0e-470
 >12.09.2023:Добавлен КИТ для вардрайвинга WIFI-PENTEST
 >12.09.2023:Добавлена опция MSF-PAYLOAD-AUTO: METASPLOIT-AUTO-PAYLOAD
 >12.09.2023:Обновлены некоторые функции
+
+
+https://github.com/K3rnel-Dev/KatanaFramework/assets/132711888/d0406740-5aa2-4c49-8808-9b7d9233327d
+
 
 <p float="left" align="center">
   <img alt="blackbird-pdf-cover" width="300" src="https://github.com/K3rnel-Dev/KatanaFramework/blob/main/screens/update.png">
