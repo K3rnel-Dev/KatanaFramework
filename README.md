@@ -1,4 +1,4 @@
-# KatanaFramework (BETA-VERSION)
+# KatanaFramework (BETA-VERSION V2.0)
 ![Python](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python)
 ![TestOS](https://img.shields.io/badge/TestedOS-KaliLinux-red?style=for-the-badge&logo=linux)
 <img alt="katana-logo" align="left" width="300" height="300" src="https://github.com/K3rnel-Dev/KatanaFramework/blob/main/22.jpg">
@@ -31,12 +31,12 @@ cd katana-framework
 #### Install requirements
 ```shell
 chmod +x install.sh
-./install.sh
+sudo ./install.sh
 ```
 
 ## Usage
 
-#### Search by username
+#### Execute
 ```python
 python katana.py
 ```
@@ -51,6 +51,14 @@ The results can be exported as a PDF Report.
 
 https://github.com/K3rnel-Dev/KatanaFramework/assets/132711888/5ecf6d4f-dc0e-470b-8d2f-ec6b7679cd9b
 
+#### UPDATES
+>12.09.2023:Добавлен КИТ для вардрайвинга WIFI-PENTEST
+>12.09.2023:Добавлена опция MSF-PAYLOAD-AUTO: METASPLOIT-AUTO-PAYLOAD
+>12.09.2023:Обновлены некоторые функции
+
+<p float="left" align="center">
+  <img alt="blackbird-pdf-cover" width="300" src="https://github.com/K3rnel-Dev/KatanaFramework/blob/main/screens/update.png">
+</p> 
 
 
 ## 0xTHX

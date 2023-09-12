@@ -1,4 +1,7 @@
 import os
+import sys
+import syslog
+
 from main_modules.banner import katana_banner
 from time import sleep
 
@@ -16,11 +19,13 @@ NC = '\033[0m'
 
 def clear_console():
     os.system('clear')
+
+
 def enter_menu():
     print(f'''{Green}
 [---]        The Katana Framework Kit (KFT)         [---]
 [---]            Created by: K3RNEL-DEV             [---]
-                     Version: 0.1 
+                     Version: 0.2 
                   Codename: 'Katana'
 [---]      Github: https://github.com/k3rnel-dev    [---]
                 Welcome to KATANA-FRAMEWORK
@@ -31,9 +36,13 @@ def select_menu():
     print(f'''{Yellow}
         [*]Select tool:\n
         +---------------------------------------------------+
+        |                    [0] EXIT                       |
+        +---------------------------------------------------+
         | [1]Katana-Password-Generator    [2]KATANA-PHISHER |
-        | [3] MASK-URL                    [4]RevShell Gen   |
+        | [3]MASK-URL                     [4]RevShell Gen   |
         | [5]KATANA-PHP-BACKDOOR          [6]NTLM-WORD STEAL|
+        |---------------------------------------------------+
+        | [7]WIFI-PENTESTING       [8]METASPLOIT-AUTOPAYLOAD|
         +---------------------------------------------------+
 ''')
 
@@ -53,6 +62,9 @@ def main():
                     os.system('cd pwdgen_modules;python3 katana_gen.py')
                     sleep(1.5)
                     main()
+                elif variable_tool == '0':
+                    print(f'[+]G00d Bye!')
+                    sys.exit(0)
                 elif variable_tool == '2':
                     clear_console()
                     os.system('cd phish_modules;bash katana_phisher.sh')
@@ -84,6 +96,14 @@ def main():
                         main()
                     else:
                         print('[-]Not correct enter!')
+                elif variable_tool == '7':
+                    os.system('cd katana_wifi;python katana_vardrive.py')
+                    clear_console()
+                    main()
+                elif variable_tool == '8':
+                    os.system('cd katana_msf;python katana_msf.py')
+                    clear_console()
+                    main()
                 elif variable_tool == 'clear':
                     clear_console()
                     main()
