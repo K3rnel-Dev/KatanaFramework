@@ -1,4 +1,4 @@
-# KatanaFramework (BETA-VERSION V2.0)
+# KatanaFramework v. 1.0)
 ![Python](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python)
 ![TestOS](https://img.shields.io/badge/TestedOS-KaliLinux-red?style=for-the-badge&logo=linux)
 <img alt="katana-logo" align="left" width="300" height="300" src="https://github.com/K3rnel-Dev/KatanaFramework/blob/main/22.jpg">
@@ -13,7 +13,7 @@
 
 ## Disclaimer
 ```
-Скрипт предназначенный только для образовательных целей.
+Фреймворк предназначенный только для образовательных целей.
 Обычный отказ от ответственности применяется, особенно тот факт, что я (K3rnel-dev) не подразумеваю ни для кого
 ущерб, причиненный прямым или индикативным использованием информации или функциональности, предоставленной этими
 программы. Автор или любой интернет-провайдер не несет ответственности за содержание или злоупотребление
@@ -37,12 +37,12 @@ sudo ./install.sh
 ## Usage
 
 #### Execute
-```python
-sudo python katana.py
+```shell
+./KATANA
 ```
 ## Screens
-The results can be exported as a PDF Report.
 <p float="left" align="center">
+  <img alt="blackbird-pdf-cover" width="300" src="https://github.com/K3rnel-Dev/KatanaFramework/blob/main/screens/katana.jpg">
   <img alt="blackbird-pdf-cover" width="300" src="https://github.com/K3rnel-Dev/KatanaFramework/blob/main/screens/demo1.png">
   <img alt="blackbird-pdf-cover" width="300" src="https://github.com/K3rnel-Dev/KatanaFramework/blob/main/screens/demo2.png">
   <img alt="blackbird-pdf-cover" width="300" src="https://github.com/K3rnel-Dev/KatanaFramework/blob/main/screens/demo4.png">
@@ -51,19 +51,15 @@ The results can be exported as a PDF Report.
 
 https://github.com/K3rnel-Dev/KatanaFramework/assets/132711888/5ecf6d4f-dc0e-470b-8d2f-ec6b7679cd9b
 
-#### UPDATES
+#### UPDATES LOGS
 >12.09.2023:Добавлен КИТ для вардрайвинга WIFI-PENTEST
 >12.09.2023:Добавлена опция MSF-PAYLOAD-AUTO: METASPLOIT-AUTO-PAYLOAD
 >12.09.2023:Обновлены некоторые функции
-
-
-https://github.com/K3rnel-Dev/KatanaFramework/assets/132711888/d0406740-5aa2-4c49-8808-9b7d9233327d
-
+>3.10.2023:Добавлено больше функций фикс ошибок.
 
 <p float="left" align="center">
-  <img alt="blackbird-pdf-cover" width="300" src="https://github.com/K3rnel-Dev/KatanaFramework/blob/main/screens/update.png">
-  <img alt="blackbird-pdf-cover" width="300" src="https://github.com/K3rnel-Dev/KatanaFramework/blob/main/screens/update3.png">
-  <img alt="blackbird-pdf-cover" width="300" src="https://github.com/K3rnel-Dev/KatanaFramework/blob/main/screens/update4.png">
+  <img alt="blackbird-pdf-cover" width="300" src="https://github.com/K3rnel-Dev/KatanaFramework/blob/main/screens/katana.jpg">
+  <a>VERSION KATANA OFFICAL V-1.0 (NOT BETA)
 </p> 
 
 

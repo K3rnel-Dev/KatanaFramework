@@ -1,0 +1,10 @@
+rich
+colorama
+psutil
+click
+phonenumbers
+pystyle
+urllib3
+readchar
+netifaces
+pyperclip
